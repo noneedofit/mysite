@@ -46,7 +46,7 @@ const getInTouch = {
   heading: "Contact",
   message:
     "For any enquiries you can mail me at",
-  email: "dhruv@dhruvg.codes",
+  email: "mail@dhruvg.codes",
 };
 
 export { navBar, mainBody, about, repos, getInTouch };
